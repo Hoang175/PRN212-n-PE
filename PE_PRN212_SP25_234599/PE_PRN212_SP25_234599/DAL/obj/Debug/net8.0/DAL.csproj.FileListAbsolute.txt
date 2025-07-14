@@ -1,0 +1,14 @@
+D:\Code C Shape\PE_PRN212_SP25_234599\PE_PRN212_SP25_234599\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\Code C Shape\PE_PRN212_SP25_234599\PE_PRN212_SP25_234599\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+D:\Code C Shape\PE_PRN212_SP25_234599\PE_PRN212_SP25_234599\DAL\bin\Debug\net8.0\DAL.dll
+D:\Code C Shape\PE_PRN212_SP25_234599\PE_PRN212_SP25_234599\DAL\bin\Debug\net8.0\DAL.pdb
+D:\Code C Shape\PE_PRN212_SP25_234599\PE_PRN212_SP25_234599\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\Code C Shape\PE_PRN212_SP25_234599\PE_PRN212_SP25_234599\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code C Shape\PE_PRN212_SP25_234599\PE_PRN212_SP25_234599\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\Code C Shape\PE_PRN212_SP25_234599\PE_PRN212_SP25_234599\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\Code C Shape\PE_PRN212_SP25_234599\PE_PRN212_SP25_234599\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\Code C Shape\PE_PRN212_SP25_234599\PE_PRN212_SP25_234599\DAL\obj\Debug\net8.0\DAL.dll
+D:\Code C Shape\PE_PRN212_SP25_234599\PE_PRN212_SP25_234599\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\Code C Shape\PE_PRN212_SP25_234599\PE_PRN212_SP25_234599\DAL\obj\Debug\net8.0\DAL.pdb
+D:\Code C Shape\PE_PRN212_SP25_234599\PE_PRN212_SP25_234599\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+D:\Code C Shape\PE_PRN212_SP25_234599\PE_PRN212_SP25_234599\DAL\obj\Debug\net8.0\ref\DAL.dll

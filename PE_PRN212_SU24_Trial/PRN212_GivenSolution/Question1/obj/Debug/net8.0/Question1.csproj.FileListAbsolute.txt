@@ -1,0 +1,42 @@
+C:\Users\Fpt\Downloads\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.exe
+C:\Users\Fpt\Downloads\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.deps.json
+C:\Users\Fpt\Downloads\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.runtimeconfig.json
+C:\Users\Fpt\Downloads\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.dll
+C:\Users\Fpt\Downloads\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.pdb
+C:\Users\Fpt\Downloads\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fpt\Downloads\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.AssemblyInfoInputs.cache
+C:\Users\Fpt\Downloads\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.AssemblyInfo.cs
+C:\Users\Fpt\Downloads\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.csproj.CoreCompileInputs.cache
+C:\Users\Fpt\Downloads\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.dll
+C:\Users\Fpt\Downloads\PRN212_GivenSolution\Question1\obj\Debug\net8.0\refint\Question1.dll
+C:\Users\Fpt\Downloads\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.pdb
+C:\Users\Fpt\Downloads\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.genruntimeconfig.cache
+C:\Users\Fpt\Downloads\PRN212_GivenSolution\Question1\obj\Debug\net8.0\ref\Question1.dll
+C:\Users\User\Downloads\PRN212_GivenSolution\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.exe
+C:\Users\User\Downloads\PRN212_GivenSolution\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.deps.json
+C:\Users\User\Downloads\PRN212_GivenSolution\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.runtimeconfig.json
+C:\Users\User\Downloads\PRN212_GivenSolution\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.dll
+C:\Users\User\Downloads\PRN212_GivenSolution\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.pdb
+C:\Users\User\Downloads\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.AssemblyInfo.cs
+C:\Users\User\Downloads\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.dll
+C:\Users\User\Downloads\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\refint\Question1.dll
+C:\Users\User\Downloads\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.pdb
+C:\Users\User\Downloads\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.genruntimeconfig.cache
+C:\Users\User\Downloads\PRN212_GivenSolution\PRN212_GivenSolution\Question1\obj\Debug\net8.0\ref\Question1.dll
+D:\Code C Shape\PE_PRN212_SU24_Trial\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.exe
+D:\Code C Shape\PE_PRN212_SU24_Trial\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.deps.json
+D:\Code C Shape\PE_PRN212_SU24_Trial\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.runtimeconfig.json
+D:\Code C Shape\PE_PRN212_SU24_Trial\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.dll
+D:\Code C Shape\PE_PRN212_SU24_Trial\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.pdb
+D:\Code C Shape\PE_PRN212_SU24_Trial\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code C Shape\PE_PRN212_SU24_Trial\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.AssemblyInfoInputs.cache
+D:\Code C Shape\PE_PRN212_SU24_Trial\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.AssemblyInfo.cs
+D:\Code C Shape\PE_PRN212_SU24_Trial\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.csproj.CoreCompileInputs.cache
+D:\Code C Shape\PE_PRN212_SU24_Trial\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.dll
+D:\Code C Shape\PE_PRN212_SU24_Trial\PRN212_GivenSolution\Question1\obj\Debug\net8.0\refint\Question1.dll
+D:\Code C Shape\PE_PRN212_SU24_Trial\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.pdb
+D:\Code C Shape\PE_PRN212_SU24_Trial\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.genruntimeconfig.cache
+D:\Code C Shape\PE_PRN212_SU24_Trial\PRN212_GivenSolution\Question1\obj\Debug\net8.0\ref\Question1.dll

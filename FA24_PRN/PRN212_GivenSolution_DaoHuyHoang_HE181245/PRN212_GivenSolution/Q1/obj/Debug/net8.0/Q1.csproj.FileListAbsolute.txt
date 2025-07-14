@@ -1,0 +1,4 @@
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\obj\Debug\net8.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\obj\Debug\net8.0\Q1.AssemblyInfoInputs.cache
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\obj\Debug\net8.0\Q1.AssemblyInfo.cs
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\obj\Debug\net8.0\Q1.csproj.CoreCompileInputs.cache

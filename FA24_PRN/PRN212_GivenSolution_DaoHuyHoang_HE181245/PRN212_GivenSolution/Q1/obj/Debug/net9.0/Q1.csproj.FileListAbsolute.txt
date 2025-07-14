@@ -1,0 +1,14 @@
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\obj\Debug\net9.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\obj\Debug\net9.0\Q1.AssemblyInfoInputs.cache
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\obj\Debug\net9.0\Q1.AssemblyInfo.cs
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\obj\Debug\net9.0\Q1.csproj.CoreCompileInputs.cache
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\bin\Debug\net9.0\Q1.exe
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\bin\Debug\net9.0\Q1.deps.json
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\bin\Debug\net9.0\Q1.runtimeconfig.json
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\bin\Debug\net9.0\Q1.dll
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\bin\Debug\net9.0\Q1.pdb
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\obj\Debug\net9.0\Q1.dll
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\obj\Debug\net9.0\refint\Q1.dll
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\obj\Debug\net9.0\Q1.pdb
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\obj\Debug\net9.0\Q1.genruntimeconfig.cache
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q1\obj\Debug\net9.0\ref\Q1.dll

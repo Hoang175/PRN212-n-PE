@@ -1,0 +1,16 @@
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\bin\Debug\net9.0\appsettings.json
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\bin\Debug\net9.0\Reporitory.deps.json
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\bin\Debug\net9.0\Reporitory.dll
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\bin\Debug\net9.0\Reporitory.pdb
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\bin\Debug\net9.0\Q2_DataAcces.dll
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\bin\Debug\net9.0\Q2_DataAcces.pdb
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\obj\Debug\net9.0\Reporitory.csproj.AssemblyReference.cache
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\obj\Debug\net9.0\Reporitory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\obj\Debug\net9.0\Reporitory.AssemblyInfoInputs.cache
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\obj\Debug\net9.0\Reporitory.AssemblyInfo.cs
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\obj\Debug\net9.0\Reporitory.csproj.CoreCompileInputs.cache
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\obj\Debug\net9.0\Reporitory.csproj.Up2Date
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\obj\Debug\net9.0\Reporitory.dll
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\obj\Debug\net9.0\refint\Reporitory.dll
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\obj\Debug\net9.0\Reporitory.pdb
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\obj\Debug\net9.0\ref\Reporitory.dll

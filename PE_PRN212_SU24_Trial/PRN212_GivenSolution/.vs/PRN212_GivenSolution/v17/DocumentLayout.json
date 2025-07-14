@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fpt\\Downloads\\PRN212_GivenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC9F9E7-3CE6-4FC9-AA8C-1FFDEFE1C65B}|Question1\\Question1.csproj|c:\\users\\fpt\\downloads\\prn212_givensolution\\question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC9F9E7-3CE6-4FC9-AA8C-1FFDEFE1C65B}|Question1\\Question1.csproj|solutionrelative:question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC9F9E7-3CE6-4FC9-AA8C-1FFDEFE1C65B}|Question1\\Question1.csproj|c:\\users\\fpt\\downloads\\prn212_givensolution\\question1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC9F9E7-3CE6-4FC9-AA8C-1FFDEFE1C65B}|Question1\\Question1.csproj|solutionrelative:question1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC9F9E7-3CE6-4FC9-AA8C-1FFDEFE1C65B}|Question1\\Question1.csproj|c:\\users\\fpt\\downloads\\prn212_givensolution\\question1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC9F9E7-3CE6-4FC9-AA8C-1FFDEFE1C65B}|Question1\\Question1.csproj|solutionrelative:question1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fpt\\Downloads\\PRN212_GivenSolution\\Question1\\Program.cs",
+              "RelativeDocumentMoniker": "Question1\\Program.cs",
+              "ToolTip": "C:\\Users\\Fpt\\Downloads\\PRN212_GivenSolution\\Question1\\Program.cs",
+              "RelativeToolTip": "Question1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:26:59.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Fpt\\Downloads\\PRN212_GivenSolution\\Question1\\Course.cs",
+              "RelativeDocumentMoniker": "Question1\\Course.cs",
+              "ToolTip": "C:\\Users\\Fpt\\Downloads\\PRN212_GivenSolution\\Question1\\Course.cs",
+              "RelativeToolTip": "Question1\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:16:23.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Fpt\\Downloads\\PRN212_GivenSolution\\Question1\\Student.cs",
+              "RelativeDocumentMoniker": "Question1\\Student.cs",
+              "ToolTip": "C:\\Users\\Fpt\\Downloads\\PRN212_GivenSolution\\Question1\\Student.cs",
+              "RelativeToolTip": "Question1\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:12:48.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

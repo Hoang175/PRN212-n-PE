@@ -1,0 +1,15 @@
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\bin\Debug\net9.0\Q2_DataAcces.deps.json
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\bin\Debug\net9.0\Q2_DataAcces.runtimeconfig.json
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\bin\Debug\net9.0\Q2_DataAcces.dll
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\bin\Debug\net9.0\Q2_DataAcces.pdb
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\obj\Debug\net9.0\Q2_DataAcces.csproj.AssemblyReference.cache
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\obj\Debug\net9.0\Q2_DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\obj\Debug\net9.0\Q2_DataAcces.AssemblyInfoInputs.cache
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\obj\Debug\net9.0\Q2_DataAcces.AssemblyInfo.cs
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\obj\Debug\net9.0\Q2_DataAcces.csproj.CoreCompileInputs.cache
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\obj\Debug\net9.0\Q2_DataAcces.dll
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\obj\Debug\net9.0\refint\Q2_DataAcces.dll
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\obj\Debug\net9.0\Q2_DataAcces.pdb
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\obj\Debug\net9.0\Q2_DataAcces.genruntimeconfig.cache
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\obj\Debug\net9.0\ref\Q2_DataAcces.dll
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\bin\Debug\net9.0\appsettings.json
