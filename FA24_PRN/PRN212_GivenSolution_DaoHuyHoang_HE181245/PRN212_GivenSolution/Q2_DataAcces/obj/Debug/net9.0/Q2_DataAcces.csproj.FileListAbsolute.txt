@@ -13,3 +13,4 @@ D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenS
 D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\obj\Debug\net9.0\Q2_DataAcces.genruntimeconfig.cache
 D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\obj\Debug\net9.0\ref\Q2_DataAcces.dll
 D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\bin\Debug\net9.0\appsettings.json
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_DataAcces\obj\Debug\net9.0\Q2_DataAcces.sourcelink.json

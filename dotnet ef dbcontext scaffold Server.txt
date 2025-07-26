@@ -1,0 +1,9 @@
+dotnet ef dbcontext scaffold "Server=localhost,1433;Database=PE_PRN212_25SprB5;User ID=sa;Password=Hoang_175@abc;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models
+
+
+
+add pakegake:
+
+dotnet add package Microsoft.EntityFrameworkCore.Design
+
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer

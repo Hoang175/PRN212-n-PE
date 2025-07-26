@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reporitory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2283d6edcad529c52c99f30f4e4506661ff0c5a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reporitory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reporitory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+D:\Code C Shape\PRN212_PE_SU24_B5_678297_chualm\SU24_B5_Given\SU24_B5_Given\Q1_Sp25\bin\Debug\net9.0\Q1_Sp25.exe
+D:\Code C Shape\PRN212_PE_SU24_B5_678297_chualm\SU24_B5_Given\SU24_B5_Given\Q1_Sp25\bin\Debug\net9.0\Q1_Sp25.deps.json
+D:\Code C Shape\PRN212_PE_SU24_B5_678297_chualm\SU24_B5_Given\SU24_B5_Given\Q1_Sp25\bin\Debug\net9.0\Q1_Sp25.runtimeconfig.json
+D:\Code C Shape\PRN212_PE_SU24_B5_678297_chualm\SU24_B5_Given\SU24_B5_Given\Q1_Sp25\bin\Debug\net9.0\Q1_Sp25.dll
+D:\Code C Shape\PRN212_PE_SU24_B5_678297_chualm\SU24_B5_Given\SU24_B5_Given\Q1_Sp25\bin\Debug\net9.0\Q1_Sp25.pdb
+D:\Code C Shape\PRN212_PE_SU24_B5_678297_chualm\SU24_B5_Given\SU24_B5_Given\Q1_Sp25\obj\Debug\net9.0\Q1_Sp25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code C Shape\PRN212_PE_SU24_B5_678297_chualm\SU24_B5_Given\SU24_B5_Given\Q1_Sp25\obj\Debug\net9.0\Q1_Sp25.AssemblyInfoInputs.cache
+D:\Code C Shape\PRN212_PE_SU24_B5_678297_chualm\SU24_B5_Given\SU24_B5_Given\Q1_Sp25\obj\Debug\net9.0\Q1_Sp25.AssemblyInfo.cs
+D:\Code C Shape\PRN212_PE_SU24_B5_678297_chualm\SU24_B5_Given\SU24_B5_Given\Q1_Sp25\obj\Debug\net9.0\Q1_Sp25.csproj.CoreCompileInputs.cache
+D:\Code C Shape\PRN212_PE_SU24_B5_678297_chualm\SU24_B5_Given\SU24_B5_Given\Q1_Sp25\obj\Debug\net9.0\Q1_Sp25.sourcelink.json
+D:\Code C Shape\PRN212_PE_SU24_B5_678297_chualm\SU24_B5_Given\SU24_B5_Given\Q1_Sp25\obj\Debug\net9.0\Q1_Sp25.dll
+D:\Code C Shape\PRN212_PE_SU24_B5_678297_chualm\SU24_B5_Given\SU24_B5_Given\Q1_Sp25\obj\Debug\net9.0\refint\Q1_Sp25.dll
+D:\Code C Shape\PRN212_PE_SU24_B5_678297_chualm\SU24_B5_Given\SU24_B5_Given\Q1_Sp25\obj\Debug\net9.0\Q1_Sp25.pdb
+D:\Code C Shape\PRN212_PE_SU24_B5_678297_chualm\SU24_B5_Given\SU24_B5_Given\Q1_Sp25\obj\Debug\net9.0\Q1_Sp25.genruntimeconfig.cache
+D:\Code C Shape\PRN212_PE_SU24_B5_678297_chualm\SU24_B5_Given\SU24_B5_Given\Q1_Sp25\obj\Debug\net9.0\ref\Q1_Sp25.dll

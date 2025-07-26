@@ -77,3 +77,4 @@ D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenS
 D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_App\obj\Debug\net9.0-windows\Q2_App.pdb
 D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_App\obj\Debug\net9.0-windows\Q2_App.genruntimeconfig.cache
 D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_App\obj\Debug\net9.0-windows\ref\Q2_App.dll
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Q2_App\obj\Debug\net9.0-windows\Q2_App.sourcelink.json

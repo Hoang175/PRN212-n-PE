@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|d:\\code c shape\\prn212_pe_su24_b5_678297_chualm\\pe_prn212_givensolution\\pe_prn212_givensolution\\q2\\borrowinghistorydetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|solutionrelative:q2\\borrowinghistorydetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|d:\\code c shape\\prn212_pe_su24_b5_678297_chualm\\pe_prn212_givensolution\\pe_prn212_givensolution\\q2\\borrowinghistorydetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|solutionrelative:q2\\borrowinghistorydetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|d:\\code c shape\\prn212_pe_su24_b5_678297_chualm\\pe_prn212_givensolution\\pe_prn212_givensolution\\q2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|solutionrelative:q2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|d:\\code c shape\\prn212_pe_su24_b5_678297_chualm\\pe_prn212_givensolution\\pe_prn212_givensolution\\q2\\models\\bookcopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|solutionrelative:q2\\models\\bookcopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|d:\\code c shape\\prn212_pe_su24_b5_678297_chualm\\pe_prn212_givensolution\\pe_prn212_givensolution\\q2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|solutionrelative:q2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|d:\\code c shape\\prn212_pe_su24_b5_678297_chualm\\pe_prn212_givensolution\\pe_prn212_givensolution\\q2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|solutionrelative:q2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|d:\\code c shape\\prn212_pe_su24_b5_678297_chualm\\pe_prn212_givensolution\\pe_prn212_givensolution\\q2\\models\\librarymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|solutionrelative:q2\\models\\librarymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|d:\\code c shape\\prn212_pe_su24_b5_678297_chualm\\pe_prn212_givensolution\\pe_prn212_givensolution\\q2\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|solutionrelative:q2\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|d:\\code c shape\\prn212_pe_su24_b5_678297_chualm\\pe_prn212_givensolution\\pe_prn212_givensolution\\q2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCB5112-D77C-416F-982E-40966F3147F0}|Q2\\Q2_SP25_ThuVienBook.csproj|solutionrelative:q2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BorrowingHistoryDetails.xaml.cs",
+              "DocumentMoniker": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\BorrowingHistoryDetails.xaml.cs",
+              "RelativeDocumentMoniker": "Q2\\BorrowingHistoryDetails.xaml.cs",
+              "ToolTip": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\BorrowingHistoryDetails.xaml.cs",
+              "RelativeToolTip": "Q2\\BorrowingHistoryDetails.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T20:23:41.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\appsettings.json",
+              "RelativeDocumentMoniker": "Q2\\appsettings.json",
+              "ToolTip": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\appsettings.json",
+              "RelativeToolTip": "Q2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T20:06:50.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Q2\\Models\\Book.cs",
+              "ToolTip": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\Models\\Book.cs",
+              "RelativeToolTip": "Q2\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T18:22:31.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowingHistoryDetails.xaml",
+              "DocumentMoniker": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\BorrowingHistoryDetails.xaml",
+              "RelativeDocumentMoniker": "Q2\\BorrowingHistoryDetails.xaml",
+              "ToolTip": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\BorrowingHistoryDetails.xaml",
+              "RelativeToolTip": "Q2\\BorrowingHistoryDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-18T17:43:44.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Q2\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Q2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA2wCgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:32:50.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookCopy.cs",
+              "DocumentMoniker": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\Models\\BookCopy.cs",
+              "RelativeDocumentMoniker": "Q2\\Models\\BookCopy.cs",
+              "ToolTip": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\Models\\BookCopy.cs",
+              "RelativeToolTip": "Q2\\Models\\BookCopy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T20:51:48.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Q2\\MainWindow.xaml",
+              "ToolTip": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\MainWindow.xaml",
+              "RelativeToolTip": "Q2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-18T17:19:24.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryManagementContext.cs",
+              "DocumentMoniker": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\Models\\LibraryManagementContext.cs",
+              "RelativeDocumentMoniker": "Q2\\Models\\LibraryManagementContext.cs",
+              "ToolTip": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\Models\\LibraryManagementContext.cs",
+              "RelativeToolTip": "Q2\\Models\\LibraryManagementContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:35:49.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Q2\\Models\\Genre.cs",
+              "ToolTip": "D:\\Code C Shape\\PRN212_PE_SU24_B5_678297_chualm\\PE_PRN212_GivenSolution\\PE_PRN212_GivenSolution\\Q2\\Models\\Genre.cs",
+              "RelativeToolTip": "Q2\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T18:47:02.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,3 +14,4 @@ D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenS
 D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\obj\Debug\net9.0\refint\Reporitory.dll
 D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\obj\Debug\net9.0\Reporitory.pdb
 D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\obj\Debug\net9.0\ref\Reporitory.dll
+D:\Code C Shape\FA24_PRN\PRN212_GivenSolution_DaoHuyHoang_HE181245\PRN212_GivenSolution\Reporitory\obj\Debug\net9.0\Reporitory.sourcelink.json

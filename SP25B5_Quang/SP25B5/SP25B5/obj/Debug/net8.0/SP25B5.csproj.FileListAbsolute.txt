@@ -1,0 +1,4 @@
+C:\Users\nhatq\OneDrive\Desktop\PE_PRN212_SU24_Trial\PaperNo_1\SP25B5\SP25B5\obj\Debug\net8.0\SP25B5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nhatq\OneDrive\Desktop\PE_PRN212_SU24_Trial\PaperNo_1\SP25B5\SP25B5\obj\Debug\net8.0\SP25B5.AssemblyInfoInputs.cache
+C:\Users\nhatq\OneDrive\Desktop\PE_PRN212_SU24_Trial\PaperNo_1\SP25B5\SP25B5\obj\Debug\net8.0\SP25B5.AssemblyInfo.cs
+C:\Users\nhatq\OneDrive\Desktop\PE_PRN212_SU24_Trial\PaperNo_1\SP25B5\SP25B5\obj\Debug\net8.0\SP25B5.csproj.CoreCompileInputs.cache

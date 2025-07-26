@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code C Shape\\SP25_B5_PRN\\PRN212_GivenSolution_SP25_B5\\PRN212_GivenSolution_SP25_B5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F51FA8-6127-407F-A73C-884F059788D7}|Q2_App\\Q2_App.csproj|d:\\code c shape\\sp25_b5_prn\\prn212_givensolution_sp25_b5\\prn212_givensolution_sp25_b5\\q2_app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F51FA8-6127-407F-A73C-884F059788D7}|Q2_App\\Q2_App.csproj|solutionrelative:q2_app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F51FA8-6127-407F-A73C-884F059788D7}|Q2_App\\Q2_App.csproj|d:\\code c shape\\sp25_b5_prn\\prn212_givensolution_sp25_b5\\prn212_givensolution_sp25_b5\\q2_app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C6F51FA8-6127-407F-A73C-884F059788D7}|Q2_App\\Q2_App.csproj|solutionrelative:q2_app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE962165-76D9-4DB7-8FBB-FEF5079030F2}|Repository\\Repository.csproj|d:\\code c shape\\sp25_b5_prn\\prn212_givensolution_sp25_b5\\prn212_givensolution_sp25_b5\\repository\\employessrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE962165-76D9-4DB7-8FBB-FEF5079030F2}|Repository\\Repository.csproj|solutionrelative:repository\\employessrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61D50E7-87B8-42A8-846C-4D9F38B21305}|Q2_DataAcess\\Q2_DataAcess.csproj|d:\\code c shape\\sp25_b5_prn\\prn212_givensolution_sp25_b5\\prn212_givensolution_sp25_b5\\q2_dataacess\\models\\peprn21225sprb5context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61D50E7-87B8-42A8-846C-4D9F38B21305}|Q2_DataAcess\\Q2_DataAcess.csproj|solutionrelative:q2_dataacess\\models\\peprn21225sprb5context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Code C Shape\\SP25_B5_PRN\\PRN212_GivenSolution_SP25_B5\\PRN212_GivenSolution_SP25_B5\\Q2_App\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Q2_App\\MainWindow.xaml",
+              "ToolTip": "D:\\Code C Shape\\SP25_B5_PRN\\PRN212_GivenSolution_SP25_B5\\PRN212_GivenSolution_SP25_B5\\Q2_App\\MainWindow.xaml",
+              "RelativeToolTip": "Q2_App\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-17T19:02:08.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PePrn21225sprB5Context.cs",
+              "DocumentMoniker": "D:\\Code C Shape\\SP25_B5_PRN\\PRN212_GivenSolution_SP25_B5\\PRN212_GivenSolution_SP25_B5\\Q2_DataAcess\\Models\\PePrn21225sprB5Context.cs",
+              "RelativeDocumentMoniker": "Q2_DataAcess\\Models\\PePrn21225sprB5Context.cs",
+              "ToolTip": "D:\\Code C Shape\\SP25_B5_PRN\\PRN212_GivenSolution_SP25_B5\\PRN212_GivenSolution_SP25_B5\\Q2_DataAcess\\Models\\PePrn21225sprB5Context.cs",
+              "RelativeToolTip": "Q2_DataAcess\\Models\\PePrn21225sprB5Context.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T18:35:23.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployessRepo.cs",
+              "DocumentMoniker": "D:\\Code C Shape\\SP25_B5_PRN\\PRN212_GivenSolution_SP25_B5\\PRN212_GivenSolution_SP25_B5\\Repository\\EmployessRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployessRepo.cs",
+              "ToolTip": "D:\\Code C Shape\\SP25_B5_PRN\\PRN212_GivenSolution_SP25_B5\\PRN212_GivenSolution_SP25_B5\\Repository\\EmployessRepo.cs",
+              "RelativeToolTip": "Repository\\EmployessRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T18:28:22.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Code C Shape\\SP25_B5_PRN\\PRN212_GivenSolution_SP25_B5\\PRN212_GivenSolution_SP25_B5\\Q2_App\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Q2_App\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Code C Shape\\SP25_B5_PRN\\PRN212_GivenSolution_SP25_B5\\PRN212_GivenSolution_SP25_B5\\Q2_App\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Q2_App\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:03:24.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
